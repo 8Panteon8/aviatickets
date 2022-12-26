@@ -1,0 +1,54 @@
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-items-center {
+  justify-items: center;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mr-auto {
+  margin-left: auto;
+}
+
+/* Header style */
+
+.header .brand-logo {
+  position: static;
+  color: #ffff;
+  border-bottom: none;
+}
+
+.header .currency-select input.select-dropdown {
+  margin: 0;
+  color: #ffff;
+  border-bottom: none;
+}
+
+.header .currency-select .caret {
+  fill: #ffff;
+}
+
+.header .currency-select{
+  width: 120px;
+}
+
+.header .currency-select input.select-dropdown:focus {
+  border-bottom: none;
+}
+
+.header .brand-logo {
+  font-size: 1.5rem;
+}
+
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
