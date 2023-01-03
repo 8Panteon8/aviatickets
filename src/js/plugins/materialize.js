@@ -12,9 +12,10 @@ export function getSelectInstance(elem) {
 //Init Autocomplete 
 const autocomplete = document.querySelectorAll('.autocomplete');
 M.Autocomplete.init(autocomplete, {data: {
-  "Apple": null,
-  "Microsoft": null,
-  "Google": 'https://placehold.it/250x250'
+  "Москва": null,
+  "Санкт-петербург": null,
+  "Париж": null,
+  "Бали": null,
 },});
 
 export function getAutocompleteInstance(elem) {
