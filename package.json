@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack --mode=production",
+    "build": "webpack",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage --colors",
@@ -33,15 +33,15 @@
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
     "style-loader": "^0.23.1",
+    "jest-transform-stub": "^2.0.0",
+    "babel-jest": "^29.3.1",
     "webpack": "^5.75.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^4.11.1",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "axios": "^1.2.1",
-    "babel-jest": "^29.3.1",
     "date-fns": "^2.29.3",
-    "jest-transform-stub": "^2.0.0",
-    "materialize-css": "^1.0.0-rc.2",
-    "webpack-cli": "^5.0.1"
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
