@@ -27,7 +27,7 @@ The application makes a request with the selected parameters (_unfortunately the
 
 # References
 - [Materialize](https://materializecss.com)
-- [Webpack] (https://webpack.js.org)
+- [Webpack](https://webpack.js.org)
 - [Axios](https://github.com/axios/axios)
 - [Jest](https://jestjs.io/ru/)
 - [Cypress](https://www.cypress.io)
