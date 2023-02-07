@@ -2,7 +2,7 @@
 
 [_hosted_](https://8panteon8.github.io/aviatickets/dist/index.html)
 
-The application makes a request with the selected parameters (_unfortunately the owner has ceased to support API_) and кunfortunately endering the information on the page
+The application makes a request for tickets with the selected parameters (_unfortunately the owner has ceased to support API_) and rendering the information on the page
 
 
 ## Screenshot
